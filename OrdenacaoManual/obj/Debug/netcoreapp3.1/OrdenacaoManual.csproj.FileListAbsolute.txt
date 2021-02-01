@@ -1,0 +1,10 @@
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/bin/Debug/netcoreapp3.1/OrdenacaoManual.deps.json
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/bin/Debug/netcoreapp3.1/OrdenacaoManual.runtimeconfig.json
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/bin/Debug/netcoreapp3.1/OrdenacaoManual.runtimeconfig.dev.json
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/bin/Debug/netcoreapp3.1/OrdenacaoManual.dll
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/bin/Debug/netcoreapp3.1/OrdenacaoManual.pdb
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/obj/Debug/netcoreapp3.1/OrdenacaoManual.csprojAssemblyReference.cache
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/obj/Debug/netcoreapp3.1/OrdenacaoManual.AssemblyInfoInputs.cache
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/obj/Debug/netcoreapp3.1/OrdenacaoManual.AssemblyInfo.cs
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/obj/Debug/netcoreapp3.1/OrdenacaoManual.dll
+/Users/demetriosarghirachis/Documents/GitHub/OrdenacaoManual/OrdenacaoManual/OrdenacaoManual/obj/Debug/netcoreapp3.1/OrdenacaoManual.pdb
